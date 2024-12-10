@@ -10,4 +10,8 @@ This repository houses projects leveraging data science and machine learning to 
 * **Sentiment Analysis**: Analyzing social media and review data to gauge public sentiment towards destinations and services.
 * **Recommendation Systems**: Building systems to suggest personalized experiences and destinations based on user preferences and historical data.
 
+### Dataset
+Most of the projects in this repository utilize the Tourism Dataset provided on Kaggle.
+Please find the link [here](https://www.kaggle.com/datasets/imtkaggleteam/tourism/data).
+
 
