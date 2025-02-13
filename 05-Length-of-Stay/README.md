@@ -14,11 +14,15 @@ Additionally, a Streamlit dashboard has been developed to provide interactive da
 - **Interactive Dashboard:** Built with Streamlit for dynamic data exploration.
 
 ### Usage
+
 **Requirements**
+
     - Python
     - Libraries: pandas, numpy, matplotlib, seaborn
     - Streamlit
+
 **How to Run**
+
     1. Install Dependencies `pip install streamlit pandas matplotlib seaborn`
     2. Clone the Repository :
     ```git clone https://github.com/Fsepehrpour/Tourism-Analytics.git```
