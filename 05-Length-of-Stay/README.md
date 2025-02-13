@@ -21,8 +21,8 @@ Additionally, a Streamlit dashboard has been developed to provide interactive da
 **How to Run**
     1. Install Dependencies `pip install streamlit pandas matplotlib seaborn`
     2. Clone the Repository :
-    ````git clone https://github.com/Fsepehrpour/Tourism-Analytics.git
-cd Tourism-Analytics```
+    ```git clone https://github.com/Fsepehrpour/Tourism-Analytics.git```
+    ```cd Tourism-Analytics```
     3. Run the App : `streamlit run app.py`
 
 
