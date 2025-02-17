@@ -3,10 +3,12 @@
 Collection + examination of visitor data >> to understand travel patterns to improve decision making by leveraging tools such as "big data", "artificiall intelligence", and "Geographic Information System (GIS)".
 
 Tourism analytics involves the process of:
-_ collecting
-_ measuring
-_ analyzing
-_ interpreting
+
+- collecting
+- measuring
+- analyzing
+- interpreting
+
 data to explore insights into travelers bahavior, preferences and trends.
 
 Tourism Analytics leverages data science to help stakeholders in the industry better understand their market.
@@ -30,8 +32,7 @@ Tourism Analytics leverages data science to help stakeholders in the industry be
 - Enhance customer service
 - Identify new market opportunities
 - Optimize marketing strategies for target audience
-- Tracking social media analytics
-  understand public sentiment and prefernces to tailor offerings to better meet cosumer needs.
+- Tracking social media analytics understand public sentiment and prefernces to tailor offerings to better meet cosumer needs.
 - Increase engagement
 
 ### Tourism industry segmentation:
