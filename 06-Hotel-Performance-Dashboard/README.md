@@ -43,7 +43,7 @@ streamlit run src/streamlit-dashboard.py
 
 
 ### Project Structure
-
+```
 Hotel-Performance-Dashboard/
 │
 ├── data/
@@ -57,7 +57,7 @@ Hotel-Performance-Dashboard/
 ├── Tableau-dashboard.png                # Screenshot of Tableau dashboard
 ├── README.md                            # Project overview
 ├── requirements.txt                     # Python dependencies
-
+```
 
 
 
