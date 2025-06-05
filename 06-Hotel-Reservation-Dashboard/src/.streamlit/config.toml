@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#FF6F61"          # Coral red for highlights and accents
+backgroundColor = "#FDF6EC"       # Soft cream background
+secondaryBackgroundColor = "#FFFFFF"  # Pure white for containers
+textColor = "#333333"             # Dark gray text for readability
+font = "monospace"                # Clean, modern font
