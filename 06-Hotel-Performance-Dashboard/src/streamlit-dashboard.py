@@ -5,20 +5,20 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-df = pd.read_csv("../data/Hotel-Reservations.csv")
+df = pd.read_csv("./data/Hotel-Reservations.csv")
 
 
 # Page Config
 
 st.set_page_config(
-    page_title="Hotel Reservation Dashboard",
+    page_title="Hotel Performance Dashboard",
     page_icon="🏨",
     layout='wide'
 )
 
 
 # Title
-st.markdown("<h1 style= 'text-align: center;' >Hotel Reservation Dashboard</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style= 'text-align: center;' >Hotel Performance Dashboard</h1>", unsafe_allow_html=True)
 st.markdown("<br>",unsafe_allow_html=True)
 
 style = """
