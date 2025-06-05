@@ -2,7 +2,7 @@
 
 This project analyzes hotel reviews from TripAdvisor and classifies them as **positive** or **negative** using basic Natural Language Processing (NLP).
 
-## 🗂 Dataset
+## Dataset
 
 - Source: [TripAdvisor Hotel Reviews on Kaggle](https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews)
 - Total entries: 20,000+
