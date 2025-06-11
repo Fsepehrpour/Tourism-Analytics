@@ -1,4 +1,4 @@
-# Hotel Review Sentiment Classifier
+# Review Sentiment Predictor
 
 This project builds a machine learning model to classify hotel reviews from TripAdvisor as **positive** or **negative** using text sentiment analysis. It includes both training scripts and an interactive Streamlit dashboard for live predictions.
 
