@@ -1,0 +1,237 @@
+,trip_id,destination,start_date,end_date,duration_(days),traveler_name,traveler_age,traveler_gender,traveler_nationality,accommodation_type,accommodation_cost,transportation_type,transportation_cost,travel_month,season,interest_category,total_cost
+0,1,"London, UK",2023-05-01 00:00:00,5/8/2023,7.0,John Smith,35.0,Male,American,Hotel,1200.0,Flight,600.0,5,Spring,History,1800.0
+1,2,"Phuket, Thailand",2023-06-15 00:00:00,6/20/2023,5.0,Jane Doe,28.0,Female,Canadian,Resort,800.0,Flight,500.0,6,Summer,Beach,1300.0
+2,3,"Bali, Indonesia",2023-07-01 00:00:00,7/8/2023,7.0,David Lee,45.0,Male,Korean,Villa,1000.0,Flight,700.0,7,Summer,Beach,1700.0
+3,4,"New York, USA",2023-08-15 00:00:00,8/29/2023,14.0,Sarah Johnson,29.0,Female,British,Hotel,2000.0,Flight,1000.0,8,Summer,Shopping,3000.0
+4,5,"Tokyo, Japan",2023-09-10 00:00:00,9/17/2023,7.0,Kim Nguyen,26.0,Female,Vietnamese,Airbnb,700.0,Train,200.0,9,Autumn,Culture,900.0
+5,6,"Paris, France",2023-10-05 00:00:00,10/10/2023,5.0,Michael Brown,42.0,Male,American,Hotel,1500.0,Flight,800.0,10,Autumn,Romance,2300.0
+6,7,"Sydney, Australia",2023-11-20 00:00:00,11/30/2023,10.0,Emily Davis,33.0,Female,Australian,Hostel,500.0,Flight,1200.0,11,Autumn,Nature,1700.0
+7,8,"Rio de Janeiro, Brazil",2024-01-05 00:00:00,1/12/2024,7.0,Lucas Santos,25.0,Male,Brazilian,Airbnb,900.0,Flight,600.0,1,Winter,Beach,1500.0
+8,9,"Amsterdam, Netherlands",2024-02-14 00:00:00,2/21/2024,7.0,Laura Janssen,31.0,Female,Dutch,Hotel,1200.0,Train,200.0,2,Winter,Art,1400.0
+9,10,"Dubai, United Arab Emirates",2024-03-10 00:00:00,3/17/2024,7.0,Mohammed Ali,39.0,Male,Emirati,Resort,2500.0,Flight,800.0,3,Spring,Luxury,3300.0
+10,11,"Cancun, Mexico",2024-04-01 00:00:00,4/8/2024,7.0,Ana Hernandez,27.0,Female,Mexican,Hotel,1000.0,Flight,500.0,4,Spring,Beach,1500.0
+11,12,"Barcelona, Spain",2024-05-15 00:00:00,5/22/2024,7.0,Carlos Garcia,36.0,Male,Spanish,Airbnb,800.0,Train,100.0,5,Spring,Art,900.0
+12,13,"Honolulu, Hawaii",2024-06-10 00:00:00,6/18/2024,8.0,Lily Wong,29.0,Female,Chinese,Resort,3000.0,Flight,1200.0,6,Summer,Beach,4200.0
+13,14,"Berlin, Germany",2024-07-01 00:00:00,7/10/2024,9.0,Hans Mueller,48.0,Male,German,Hotel,1400.0,Flight,700.0,7,Summer,History,2100.0
+14,15,"Marrakech, Morocco",2024-08-20 00:00:00,8/27/2024,7.0,Fatima Khouri,26.0,Female,Moroccan,Riad,600.0,Flight,400.0,8,Summer,Culture,1000.0
+15,16,"Edinburgh, Scotland",2024-09-05 00:00:00,9/12/2024,7.0,James MacKenzie,32.0,Male,Scottish,Hotel,900.0,Train,150.0,9,Autumn,History,1050.0
+16,17,Paris,2023-09-01 00:00:00,9/10/2023,9.0,Sarah Johnson,30.0,Female,American,Hotel,900.0,Plane,400.0,9,Autumn,Romance,1300.0
+17,18,Bali,2023-08-15 00:00:00,8/25/2023,10.0,Michael Chang,28.0,Male,Chinese,Resort,1500.0,Plane,700.0,8,Summer,Beach,2200.0
+18,19,London,2023-07-22 00:00:00,7/28/2023,6.0,Olivia Rodriguez,35.0,Female,British,Hotel,1200.0,Train,150.0,7,Summer,History,1350.0
+19,20,Tokyo,2023-10-05 00:00:00,10/15/2023,10.0,Kenji Nakamura,45.0,Male,Japanese,Hotel,1200.0,Plane,800.0,10,Autumn,Culture,2000.0
+20,21,New York,2023-11-20 00:00:00,11/25/2023,5.0,Emily Lee,27.0,Female,American,Airbnb,600.0,Bus,100.0,11,Autumn,Shopping,700.0
+21,22,Sydney,2023-12-05 00:00:00,12/12/2023,7.0,James Wilson,32.0,Male,Australian,Hotel,1000.0,Plane,600.0,12,Winter,Nature,1600.0
+22,23,Rome,2023-11-01 00:00:00,11/8/2023,7.0,Sofia Russo,29.0,Female,Italian,Airbnb,700.0,Train,80.0,11,Autumn,Culture,780.0
+23,24,Bangkok,2023-09-15 00:00:00,9/23/2023,8.0,Raj Patel,40.0,Male,Indian,Hostel,400.0,Plane,500.0,9,Autumn,Street Life,900.0
+24,25,Paris,2023-12-22 00:00:00,12/28/2023,6.0,Lily Nguyen,24.0,Female,Vietnamese,Hotel,1400.0,Train,100.0,12,Winter,Romance,1500.0
+25,26,Hawaii,2023-08-01 00:00:00,8/10/2023,9.0,David Kim,34.0,Male,Korean,Resort,2000.0,Plane,800.0,8,Summer,Beach,2800.0
+26,27,Barcelona,2023-10-20 00:00:00,10/28/2023,8.0,Maria Garcia,31.0,Female,Spanish,Hotel,1100.0,Train,150.0,10,Autumn,Art,1250.0
+27,28,Japan,2022-05-10 00:00:00,5/18/2022,8.0,Alice Smith,30.0,Female,American,Hotel,800.0,Plane,500.0,5,Spring,Culture,1300.0
+28,29,Thailand,2022-06-15 00:00:00,6/22/2022,7.0,Bob Johnson,45.0,Male,Canadian,Hostel,200.0,Train,150.0,6,Summer,Beach,350.0
+29,30,France,2022-07-02 00:00:00,7/11/2022,9.0,Charlie Lee,25.0,Male,Korean,Airbnb,600.0,Car rental,300.0,7,Summer,Romance,900.0
+30,31,Australia,2022-08-20 00:00:00,9/2/2022,13.0,Emma Davis,28.0,Female,British,Hotel,1000.0,Car rental,500.0,8,Summer,Nature,1500.0
+31,32,Brazil,2022-09-05 00:00:00,9/14/2022,9.0,Olivia Martin,33.0,Female,Australian,Hostel,150.0,Bus,50.0,9,Autumn,Carnival,200.0
+32,33,Greece,2022-10-12 00:00:00,10/20/2022,8.0,Harry Wilson,20.0,Male,American,Airbnb,400.0,Plane,600.0,10,Autumn,History,1000.0
+33,34,Egypt,2022-11-08 00:00:00,11/15/2022,7.0,Sophia Lee,37.0,Female,Canadian,Hotel,700.0,Train,100.0,11,Autumn,History,800.0
+34,35,Mexico,2023-01-05 00:00:00,1/15/2023,10.0,James Brown,42.0,Male,British,Airbnb,500.0,Plane,800.0,1,Winter,Culture,1300.0
+35,36,Italy,2023-02-14 00:00:00,2/20/2023,6.0,Mia Johnson,31.0,Female,American,Hostel,180.0,Train,120.0,2,Winter,Art,300.0
+36,37,Spain,2023-03-23 00:00:00,3/31/2023,8.0,William Davis,27.0,Male,Korean,Hotel,900.0,Car rental,400.0,3,Spring,Culture,1300.0
+37,38,Canada,2023-04-19 00:00:00,4/26/2023,7.0,Amelia Brown,38.0,Female,Australian,Airbnb,350.0,Bus,75.0,4,Spring,Nature,425.0
+38,39,"Paris, France",2022-06-12 00:00:00,6/19/2022,7.0,Mia Johnson,25.0,Female,American,Hotel,1400.0,Plane,600.0,6,Summer,Romance,2000.0
+39,40,"Sydney, Australia",2023-01-02 00:00:00,1/9/2023,7.0,Adam Lee,33.0,Male,Canadian,Airbnb,800.0,Train,150.0,1,Winter,Nature,950.0
+40,41,"Tokyo, Japan",2022-12-10 00:00:00,12/18/2022,8.0,Sarah Wong,28.0,Female,Chinese,Hostel,500.0,Plane,900.0,12,Winter,Culture,1400.0
+41,42,"Cancun, Mexico",2023-07-01 00:00:00,7/8/2023,7.0,John Smith,45.0,Male,American,Resort,2200.0,Plane,800.0,7,Summer,Beach,3000.0
+42,43,"Rio de Janeiro, Brazil",2022-11-20 00:00:00,11/27/2022,7.0,Maria Silva,30.0,Female,Brazilian,Hotel,1200.0,Plane,700.0,11,Autumn,Beach,1900.0
+43,44,"London, UK",2023-03-05 00:00:00,3/12/2023,7.0,Peter Brown,55.0,Male,British,Airbnb,900.0,Train,100.0,3,Spring,History,1000.0
+44,45,"Barcelona, Spain",2023-08-18 00:00:00,8/25/2023,7.0,Emma Garcia,27.0,Female,Spanish,Hostel,600.0,Plane,600.0,8,Summer,Art,1200.0
+45,46,"New York City, USA",2022-09-15 00:00:00,9/22/2022,7.0,Michael Davis,41.0,Male,American,Hotel,1500.0,Plane,500.0,9,Autumn,Shopping,2000.0
+46,47,"Bangkok, Thailand",2023-05-01 00:00:00,5/7/2023,6.0,Nina Patel,29.0,Female,Indian,Airbnb,500.0,Bus,50.0,5,Spring,Street Life,550.0
+47,48,"Vancouver, Canada",2022-07-10 00:00:00,7/17/2022,7.0,Kevin Kim,24.0,Male,Korean,Hostel,400.0,Train,150.0,7,Summer,Nature,550.0
+48,49,"Amsterdam, Netherlands",2023-06-20 00:00:00,6/28/2023,8.0,Laura van den Berg,31.0,Female,Dutch,Hotel,1100.0,Plane,700.0,6,Summer,Art,1800.0
+49,50,"Paris, France",2023-08-15 00:00:00,8/22/2023,7.0,Jennifer Nguyen,31.0,Female,Canadian,Hotel,1200.0,Train,300.0,8,Summer,Romance,1500.0
+50,51,"Tokyo, Japan",2023-10-10 00:00:00,10/20/2023,10.0,David Kim,25.0,Male,American,Hostel,500.0,Bus,100.0,10,Autumn,Culture,600.0
+51,52,"Sydney, AUS",2023-11-05 00:00:00,11/12/2023,7.0,Rachel Lee,27.0,Female,South Korean,Airbnb,900.0,Car rental,200.0,11,Autumn,Nature,1100.0
+52,53,"New York, USA",2023-12-24 00:00:00,12/31/2023,7.0,Jessica Wong,28.0,Female,Canadian,Hotel,1400.0,Flight,800.0,12,Winter,Shopping,2200.0
+53,54,"Rio de Janeiro, Brazil",2024-01-15 00:00:00,1/24/2024,9.0,Felipe Almeida,30.0,Male,Brazilian,Airbnb,800.0,Train,150.0,1,Winter,Beach,950.0
+54,55,"Bangkok, Thailand",2024-02-01 00:00:00,2/9/2024,8.0,Nisa Patel,23.0,Female,Indian,Hostel,400.0,Bus,50.0,2,Winter,Street Life,450.0
+55,56,"London, UK",2024-03-15 00:00:00,3/23/2024,8.0,Ben Smith,35.0,Male,British,Hotel,1000.0,Train,200.0,3,Spring,History,1200.0
+56,57,"Barcelona, Spain",2024-04-05 00:00:00,4/13/2024,8.0,Laura Gomez,29.0,Female,Spanish,Airbnb,700.0,Car rental,250.0,4,Spring,Art,950.0
+57,58,"Seoul, South Korea",2024-05-10 00:00:00,5/18/2024,8.0,Park Min Woo,27.0,Male,South Korean,Hostel,500.0,Subway,20.0,5,Spring,Tech & Culture,520.0
+58,59,"Los Angeles, USA",2024-06-20 00:00:00,6/27/2024,7.0,Michael Chen,26.0,Male,Chinese,Hotel,1200.0,Car rental,300.0,6,Summer,Entertainment,1500.0
+59,60,"Rome, Italy",2024-07-15 00:00:00,7/23/2024,8.0,Sofia Rossi,33.0,Female,Italian,Airbnb,800.0,Train,100.0,7,Summer,Culture,900.0
+60,61,Paris,2022-07-12 00:00:00,7/18/2022,6.0,Rachel Sanders,35.0,Female,American,Hotel,1200.0,Plane,800.0,7,Summer,Romance,2000.0
+61,62,Tokyo,2022-09-03 00:00:00,9/10/2022,7.0,Kenji Nakamura,28.0,Male,Japanese,Hostel,400.0,Train,300.0,9,Autumn,Culture,700.0
+62,63,Cape Town,2023-01-07 00:00:00,1/16/2023,9.0,Emily Watson,29.0,Female,British,Vacation rental,800.0,Car rental,200.0,1,Winter,Adventure,1000.0
+63,64,Sydney,2023-06-23 00:00:00,6/29/2023,6.0,David Lee,43.0,Male,Australian,Hotel,1500.0,Plane,1200.0,6,Summer,Nature,2700.0
+64,65,Barcelona,2023-08-18 00:00:00,8/25/2023,7.0,Ana Rodriguez,31.0,Female,Spanish,Vacation rental,900.0,Plane,700.0,8,Summer,Art,1600.0
+65,66,Bali,2024-02-01 00:00:00,2/8/2024,7.0,Tom Wilson,27.0,Male,American,Resort,2200.0,Plane,1000.0,2,Winter,Beach,3200.0
+66,67,Paris,2024-05-06 00:00:00,5/12/2024,6.0,Olivia Green,39.0,Female,French,Hotel,1100.0,Train,200.0,5,Spring,Romance,1300.0
+67,68,New York,2024-07-20 00:00:00,7/26/2024,6.0,James Chen,25.0,Male,American,Vacation rental,1000.0,Plane,800.0,7,Summer,Shopping,1800.0
+68,69,Bangkok,2024-09-08 00:00:00,9/16/2024,8.0,Lila Patel,33.0,Female,Indian,Hostel,300.0,Plane,700.0,9,Autumn,Street Life,1000.0
+69,70,Rome,2025-02-14 00:00:00,2/20/2025,6.0,Marco Rossi,41.0,Male,Italian,Hotel,1300.0,Train,100.0,2,Winter,Culture,1400.0
+70,71,Bali,2025-05-21 00:00:00,5/29/2025,8.0,Sarah Brown,37.0,Female,British,Resort,1800.0,Plane,1000.0,5,Spring,Beach,2800.0
+71,73,"Bali, Indonesia",2022-08-05 00:00:00,8/12/2022,7.0,Sarah Lee,35.0,Female,South Korean,Resort,500.0,Plane,800.0,8,Summer,Beach,1300.0
+72,74,"Tokyo, Japan",2023-01-01 00:00:00,1/9/2023,8.0,Alex Kim,29.0,Male,American,Hotel,1000.0,Train,200.0,1,Winter,Culture,1200.0
+73,75,"Cancun, Mexico",2023-04-15 00:00:00,4/22/2023,7.0,Maria Hernandez,42.0,Female,Mexican,Resort,800.0,Plane,500.0,4,Spring,Beach,1300.0
+74,76,"Paris, France",2023-06-07 00:00:00,6/14/2023,7.0,John Smith,46.0,Male,British,Hotel,1200.0,Plane,700.0,6,Summer,Romance,1900.0
+75,77,"Cape Town, SA",2023-09-01 00:00:00,9/10/2023,9.0,Mark Johnson,31.0,Male,South African,Guesthouse,400.0,Car,300.0,9,Autumn,Adventure,700.0
+76,78,"Bali, Indonesia",2023-11-12 00:00:00,11/19/2023,7.0,Amanda Chen,25.0,Female,Taiwanese,Resort,600.0,Plane,700.0,11,Autumn,Beach,1300.0
+77,79,"Sydney, Aus",2024-02-05 00:00:00,2/12/2024,7.0,David Lee,38.0,Male,Australian,Hotel,900.0,Plane,600.0,2,Winter,Nature,1500.0
+78,80,"Bangkok, Thai",2024-05-15 00:00:00,5/22/2024,7.0,Nana Kwon,27.0,Female,Korean,Hotel,400.0,Plane,400.0,5,Spring,Street Life,800.0
+79,81,"New York, USA",2024-08-20 00:00:00,8/27/2024,7.0,Tom Hanks,60.0,Male,American,Hotel,1500.0,Plane,1000.0,8,Summer,Shopping,2500.0
+80,82,"Phuket, Thai",2025-01-01 00:00:00,1/8/2025,7.0,Emma Watson,32.0,Female,British,Resort,700.0,Plane,800.0,1,Winter,Beach,1500.0
+81,84,Paris,2021-06-15 00:00:00,6/20/2021,6.0,John Smith,35.0,Male,American,Hotel,800.0,Plane,500.0,6,Summer,Romance,1300.0
+82,85,Tokyo,2021-07-01 00:00:00,7/10/2021,10.0,Sarah Lee,28.0,Female,Korean,Airbnb,500.0,Train,300.0,7,Summer,Culture,800.0
+83,86,Bali,2021-08-10 00:00:00,8/20/2021,11.0,Maria Garcia,42.0,Female,Spanish,Resort,1200.0,Plane,700.0,8,Summer,Beach,1900.0
+84,87,Sydney,2021-09-01 00:00:00,9/10/2021,9.0,David Lee,45.0,Male,Australian,Hotel,900.0,Plane,600.0,9,Autumn,Nature,1500.0
+85,88,New York,2021-10-15 00:00:00,10/20/2021,6.0,Emily Davis,31.0,Female,American,Airbnb,700.0,Car rental,200.0,10,Autumn,Shopping,900.0
+86,89,London,2021-11-20 00:00:00,11/30/2021,11.0,James Wilson,29.0,Male,British,Hostel,300.0,Plane,400.0,11,Autumn,History,700.0
+87,90,Dubai,2022-01-01 00:00:00,1/8/2022,8.0,Fatima Ahmed,24.0,Female,Emirati,Hotel,1000.0,Plane,800.0,1,Winter,Luxury,1800.0
+88,91,Bangkok,2022-02-14 00:00:00,2/20/2022,7.0,Liam Nguyen,26.0,Male,Vietnamese,Airbnb,400.0,Train,100.0,2,Winter,Street Life,500.0
+89,92,Rome,2022-03-10 00:00:00,3/20/2022,11.0,Giulia Rossi,30.0,Female,Italian,Hostel,200.0,Plane,350.0,3,Spring,Culture,550.0
+90,93,Bali,2022-04-15 00:00:00,4/25/2022,11.0,Putra Wijaya,33.0,Male,Indonesian,Villa,1500.0,Car rental,300.0,4,Spring,Beach,1800.0
+91,94,Seoul,2022-05-01 00:00:00,5/10/2022,10.0,Kim Min-ji,27.0,Female,Korean,Hotel,800.0,Train,150.0,5,Spring,Tech & Culture,950.0
+92,95,Paris,2022-06-15 00:00:00,6/20/2022,5.0,John Smith,35.0,Male,USA,Hotel,500.0,Plane,800.0,6,Summer,Romance,1300.0
+93,96,Tokyo,2022-09-01 00:00:00,9/10/2022,9.0,Emily Johnson,28.0,Female,Canada,Airbnb,400.0,Train,200.0,9,Autumn,Culture,600.0
+94,97,Sydney,2022-11-23 00:00:00,12/2/2022,9.0,David Lee,45.0,Male,South Korea,Hostel,200.0,Plane,1200.0,11,Autumn,Nature,1400.0
+95,98,London,2023-02-14 00:00:00,2/19/2023,5.0,Sarah Brown,37.0,Female,UK,Hotel,600.0,Plane,700.0,2,Winter,History,1300.0
+96,99,New York,2023-05-08 00:00:00,5/14/2023,6.0,Michael Wong,50.0,Male,China,Airbnb,800.0,Car rental,300.0,5,Spring,Shopping,1100.0
+97,100,Rome,2023-08-20 00:00:00,8/27/2023,7.0,Jessica Chen,31.0,Female,Taiwan,Hotel,700.0,Plane,900.0,8,Summer,Culture,1600.0
+98,101,Bangkok,2023-11-12 00:00:00,11/20/2023,8.0,Ken Tanaka,42.0,Male,Japan,Hostel,300.0,Train,100.0,11,Autumn,Street Life,400.0
+99,102,Cape Town,2024-01-06 00:00:00,1/14/2024,8.0,Maria Garcia,27.0,Female,Spain,Airbnb,500.0,Plane,1500.0,1,Winter,Adventure,2000.0
+100,103,Rio de Janeiro,2024-04-03 00:00:00,4/10/2024,7.0,Rodrigo Oliveira,33.0,Male,Brazil,Hotel,900.0,Car rental,400.0,4,Spring,Beach,1300.0
+101,104,Bali,2024-07-22 00:00:00,7/28/2024,6.0,Olivia Kim,29.0,Female,South Korea,Villa,1200.0,Plane,1000.0,7,Summer,Beach,2200.0
+102,105,Amsterdam,2024-10-10 00:00:00,10/17/2024,7.0,Robert Mueller,41.0,Male,Germany,Hotel,600.0,Train,150.0,10,Autumn,Art,750.0
+103,106,Paris,2022-05-15 00:00:00,5/20/2022,5.0,John Smith,35.0,Male,USA,Hotel,1000.0,Plane,800.0,5,Spring,Romance,1800.0
+104,107,Tokyo,2022-09-01 00:00:00,9/10/2022,9.0,Sarah Lee,28.0,Female,South Korea,Airbnb,800.0,Train,500.0,9,Autumn,Culture,1300.0
+105,108,New York,2022-06-20 00:00:00,6/25/2022,5.0,Michael Wong,42.0,Male,Hong Kong,Hotel,1200.0,Car rental,200.0,6,Summer,Shopping,1400.0
+106,109,Bali,2022-08-12 00:00:00,8/20/2022,8.0,Lisa Chen,30.0,Female,Taiwan,Resort,1500.0,Plane,1200.0,8,Summer,Beach,2700.0
+107,110,Sydney,2022-07-01 00:00:00,7/10/2022,9.0,David Kim,26.0,Male,Canada,Hostel,300.0,Plane,900.0,7,Summer,Nature,1200.0
+108,111,London,2022-06-10 00:00:00,6/15/2022,5.0,Emily Wong,38.0,Female,United Kingdom,Hotel,900.0,Train,150.0,6,Summer,History,1050.0
+109,112,Phuket,2022-09-05 00:00:00,9/12/2022,7.0,Mark Tan,45.0,Male,Singapore,Villa,2000.0,Plane,700.0,9,Autumn,Beach,2700.0
+110,113,Rome,2022-05-01 00:00:00,5/8/2022,7.0,Emma Lee,31.0,Female,Italy,Hotel,1100.0,Train,250.0,5,Spring,Culture,1350.0
+111,114,Santorini,2022-07-15 00:00:00,7/22/2022,7.0,George Chen,27.0,Male,Greece,Airbnb,1000.0,Ferry,150.0,7,Summer,Romance,1150.0
+112,115,Dubai,2022-08-25 00:00:00,8/30/2022,5.0,Sophia Kim,29.0,Female,United Arab Emirates,Hotel,1500.0,Car rental,300.0,8,Summer,Luxury,1800.0
+113,116,Phnom Penh,2022-09-10 00:00:00,9/15/2022,5.0,Alex Ng,33.0,Male,Cambodia,Hostel,200.0,Plane,500.0,9,Autumn,History,700.0
+114,117,"Tokyo, Japan",2022-02-05 00:00:00,2/14/2022,9.0,Alice Smith,32.0,Female,American,Hotel,1000.0,Plane,700.0,2,Winter,Culture,1700.0
+115,118,"Paris, France",2022-03-15 00:00:00,3/22/2022,7.0,Bob Johnson,47.0,Male,Canadian,Hotel,1200.0,Train,500.0,3,Spring,Romance,1700.0
+116,119,"Sydney, Aus",2022-05-01 00:00:00,5/12/2022,11.0,Cindy Chen,26.0,Female,Chinese,Airbnb,800.0,Plane,1000.0,5,Spring,Nature,1800.0
+117,120,"Rome, Italy",2022-06-10 00:00:00,6/17/2022,7.0,David Lee,38.0,Male,Korean,Hotel,900.0,Train,400.0,6,Summer,Culture,1300.0
+118,121,"Bali, Indonesia",2022-07-20 00:00:00,7/30/2022,10.0,Emily Kim,29.0,Female,Korean,Hostel,500.0,Plane,800.0,7,Summer,Beach,1300.0
+119,122,"Cancun, Mexico",2022-08-08 00:00:00,8/16/2022,8.0,Frank Li,41.0,Male,American,Hotel,1300.0,Plane,600.0,8,Summer,Beach,1900.0
+120,123,"Athens, Greece",2022-09-20 00:00:00,9/30/2022,10.0,Gina Lee,35.0,Female,Korean,Airbnb,700.0,Plane,900.0,9,Autumn,Ancient History,1600.0
+121,124,"Tokyo, Japan",2022-10-05 00:00:00,10/13/2022,8.0,Henry Kim,24.0,Male,Korean,Hotel,1200.0,Plane,700.0,10,Autumn,Culture,1900.0
+122,125,"Sydney, Aus",2022-11-11 00:00:00,11/21/2022,10.0,Isabella Chen,30.0,Female,Chinese,Airbnb,900.0,Plane,1000.0,11,Autumn,Nature,1900.0
+123,126,"Paris, France",2022-12-24 00:00:00,1/1/2023,8.0,Jack Smith,28.0,Male,American,Hostel,400.0,Plane,700.0,12,Winter,Romance,1100.0
+124,127,"Bali, Indonesia",2023-02-10 00:00:00,2/18/2023,8.0,Katie Johnson,33.0,Female,Canadian,Hotel,800.0,Plane,800.0,2,Winter,Beach,1600.0
+125,129,"Paris, France",2023-05-01 00:00:00,5/7/2023,6.0,John Doe,35.0,Male,American,Hotel,5000.0,Airplane,2500.0,5,Spring,Romance,7500.0
+126,130,"Tokyo, Japan",2023-05-15 00:00:00,5/22/2023,7.0,Jane Smith,28.0,Female,British,Airbnb,7000.0,Train,1500.0,5,Spring,Culture,8500.0
+127,131,"Cape Town, South Africa",2023-06-01 00:00:00,6/10/2023,9.0,Michael Johnson,45.0,Male,South African,Hostel,3000.0,Car,2000.0,6,Summer,Adventure,5000.0
+128,132,"Sydney, Australia",2023-06-15 00:00:00,6/21/2023,6.0,Sarah Lee,31.0,Female,Australian,Hotel,6000.0,Airplane,3000.0,6,Summer,Nature,9000.0
+129,133,"Rome, Italy",2023-07-01 00:00:00,7/8/2023,7.0,David Kim,42.0,Male,Korean,Airbnb,4000.0,Train,1500.0,7,Summer,Culture,5500.0
+130,134,"New York City, USA",2023-07-15 00:00:00,7/22/2023,7.0,Emily Davis,27.0,Female,American,Hotel,8000.0,Airplane,2500.0,7,Summer,Shopping,10500.0
+131,135,"Rio de Janeiro, Brazil",2023-08-01 00:00:00,8/10/2023,9.0,Jose Perez,37.0,Male,Brazilian,Hostel,2500.0,Car,2000.0,8,Summer,Beach,4500.0
+132,136,"Vancouver, Canada",2023-08-15 00:00:00,8/21/2023,6.0,Emma Wilson,29.0,Female,Canadian,Hotel,5000.0,Airplane,3000.0,8,Summer,Nature,8000.0
+133,137,"Bangkok, Thailand",2023-09-01 00:00:00,9/8/2023,7.0,Ryan Chen,34.0,Male,Chinese,Hostel,2000.0,Train,1000.0,9,Autumn,Street Life,3000.0
+134,138,"Barcelona, Spain",2023-09-15 00:00:00,9/22/2023,7.0,Sofia Rodriguez,25.0,Female,Spanish,Airbnb,6000.0,Airplane,2500.0,9,Autumn,Art,8500.0
+135,139,"Auckland, New Zealand",2023-10-01 00:00:00,10/8/2023,7.0,William Brown,39.0,Male,New Zealander,Hotel,7000.0,Train,2500.0,10,Autumn,Nature,9500.0
+136,140,Vancouver,2024-09-25,2024-10-03,8.0,Nicole Jones,64.0,Male,Guyana,Hotel,693.0,Bus,89.0,9,Autumn,Nature,782.0
+137,141,Vancouver,2025-01-06,2025-01-13,7.0,Bryan Morales,31.0,Male,Bulgaria,Airbnb,591.0,Train,290.0,3,Spring,Nature,881.0
+138,142,Marrakech,2024-07-16,2024-07-29,13.0,Justin Ortiz,62.0,Male,Australia,Airbnb,318.0,Bus,160.0,4,Spring,Culture,478.0
+139,143,Amsterdam,2025-05-04,2025-05-13,9.0,Erica Perez,20.0,Female,Isle of Man,Hotel,999.0,Flight,378.0,3,Spring,Art,1377.0
+140,144,Reykjavik,2024-11-07,2024-11-21,14.0,Kevin Bryant,29.0,Female,Saint Pierre and Miquelon,Hostel,181.0,Flight,942.0,5,Spring,Nature,1123.0
+141,145,London,2024-07-23,2024-08-03,11.0,Megan Cain,65.0,Male,Finland,Hostel,195.0,Bus,157.0,4,Spring,History,352.0
+142,146,Brazil,2024-09-22,2024-10-02,10.0,Daniel Ball,49.0,Male,India,Hostel,162.0,Train,153.0,4,Spring,Carnival,315.0
+143,147,Spain,2024-11-27,2024-12-08,11.0,Kimberly Jennings,52.0,Male,Cambodia,Hotel,789.0,Train,315.0,2,Winter,Culture,1104.0
+144,148,New York City,2024-11-18,2024-11-24,6.0,Calvin Martinez,63.0,Female,Burkina Faso,Hostel,265.0,Bus,117.0,1,Winter,Shopping,382.0
+145,149,Tokyo,2024-08-18,2024-08-26,8.0,Laura Richardson,30.0,Male,South Africa,Resort,1285.0,Bus,89.0,12,Winter,Culture,1374.0
+146,150,Cape Town,2024-07-18,2024-07-26,8.0,Gregory Gallagher,26.0,Male,Holy See (Vatican City State),Resort,940.0,Train,234.0,7,Summer,Adventure,1174.0
+147,151,New York,2025-01-10,2025-01-17,7.0,Sabrina Williams,55.0,Male,Niue,Hotel,1127.0,Bus,84.0,6,Summer,Shopping,1211.0
+148,152,Thailand,2024-11-29,2024-12-07,8.0,Tracy Perry,51.0,Female,Tajikistan,Resort,861.0,Train,339.0,2,Winter,Beach,1200.0
+149,153,Canada,2025-03-14,2025-03-20,6.0,Joshua Burton,44.0,Female,Pitcairn Islands,Airbnb,513.0,Bus,106.0,4,Spring,Nature,619.0
+150,154,Thailand,2025-04-16,2025-04-27,11.0,Kevin Johnson,60.0,Female,Bolivia,Airbnb,601.0,Flight,586.0,11,Autumn,Beach,1187.0
+151,155,Dubai,2024-06-13,2024-06-21,8.0,Brian Garcia,63.0,Female,Luxembourg,Airbnb,497.0,Train,229.0,12,Winter,Luxury,726.0
+152,156,Greece,2025-03-20,2025-03-27,7.0,Susan Vargas,41.0,Female,Svalbard & Jan Mayen Islands,Resort,1085.0,Bus,134.0,3,Spring,History,1219.0
+153,157,Cancun,2025-04-03,2025-04-12,9.0,Megan Frye,49.0,Female,Togo,Resort,1412.0,Train,347.0,12,Winter,Beach,1759.0
+154,158,Dubai,2025-02-21,2025-02-26,5.0,Raymond Kane,62.0,Female,Switzerland,Airbnb,207.0,Flight,437.0,8,Summer,Luxury,644.0
+155,159,Rio de Janeiro,2024-10-02,2024-10-09,7.0,Maria Walker,18.0,Female,Tokelau,Airbnb,730.0,Train,312.0,5,Spring,Beach,1042.0
+156,160,Mexico,2025-03-09,2025-03-16,7.0,Mathew Perkins,55.0,Male,Samoa,Airbnb,381.0,Train,103.0,2,Winter,Culture,484.0
+157,161,Brazil,2025-04-23,2025-05-06,13.0,Adam Murray,62.0,Male,Rwanda,Hostel,271.0,Flight,546.0,2,Winter,Carnival,817.0
+158,162,Spain,2024-12-06,2024-12-16,10.0,Diane Santos,50.0,Male,Equatorial Guinea,Hostel,179.0,Train,223.0,10,Autumn,Culture,402.0
+159,163,Canada,2024-07-18,2024-07-28,10.0,Jason Cantrell,46.0,Male,Tokelau,Airbnb,366.0,Flight,645.0,9,Autumn,Nature,1011.0
+160,164,Edinburgh,2024-11-09,2024-11-20,11.0,Michael Schultz,19.0,Female,Algeria,Hostel,143.0,Bus,158.0,9,Autumn,History,301.0
+161,165,Phuket,2024-09-06,2024-09-16,10.0,Cody Hancock,23.0,Male,Jersey,Airbnb,362.0,Train,232.0,2,Winter,Beach,594.0
+162,166,Australia,2025-03-11,2025-03-17,6.0,Phillip Riley,51.0,Female,Thailand,Resort,1298.0,Flight,673.0,8,Summer,Nature,1971.0
+163,167,Reykjavik,2025-05-02,2025-05-11,9.0,Michael Simon,63.0,Female,Egypt,Hostel,251.0,Train,251.0,7,Summer,Nature,502.0
+164,168,Los Angeles,2025-03-12,2025-03-20,8.0,Erica Wilson MD,18.0,Female,Myanmar,Hotel,709.0,Train,135.0,8,Summer,Entertainment,844.0
+165,169,Honolulu,2025-01-10,2025-01-17,7.0,Lisa Evans,65.0,Female,Brazil,Resort,980.0,Bus,163.0,11,Autumn,Beach,1143.0
+166,170,Athens,2025-06-01,2025-06-14,13.0,Lance Jones,51.0,Female,Tunisia,Hotel,1012.0,Bus,189.0,6,Summer,Ancient History,1201.0
+167,171,Cape Town,2024-11-08,2024-11-18,10.0,Jeffrey White,61.0,Male,Puerto Rico,Airbnb,609.0,Flight,573.0,11,Autumn,Adventure,1182.0
+168,172,Rome,2024-12-28,2025-01-08,11.0,Jeffrey Meza,20.0,Female,French Guiana,Airbnb,618.0,Train,388.0,4,Spring,Culture,1006.0
+169,173,Berlin,2024-07-14,2024-07-23,9.0,Michelle Ellis,49.0,Male,Mexico,Hostel,119.0,Flight,940.0,8,Summer,History,1059.0
+170,174,Phnom Penh,2024-12-10,2024-12-18,8.0,Troy Raymond,65.0,Male,Lao People's Democratic Republic,Hostel,136.0,Bus,169.0,1,Winter,History,305.0
+171,175,Berlin,2024-09-14,2024-09-24,10.0,Laura Barrett,41.0,Male,Saint Lucia,Hotel,615.0,Train,205.0,3,Spring,History,820.0
+172,176,Australia,2024-07-22,2024-08-05,14.0,Daniel King,44.0,Female,Uzbekistan,Resort,947.0,Flight,353.0,2,Winter,Nature,1300.0
+173,177,Rio de Janeiro,2024-11-29,2024-12-05,6.0,Hunter Waters,33.0,Female,Oman,Hostel,232.0,Bus,91.0,3,Spring,Beach,323.0
+174,178,Spain,2024-07-26,2024-08-03,8.0,Kelly Robinson,43.0,Male,Bahrain,Resort,1052.0,Train,174.0,8,Summer,Culture,1226.0
+175,179,Paris,2024-08-09,2024-08-23,14.0,Kevin Cooper,56.0,Male,French Guiana,Hostel,253.0,Bus,129.0,1,Winter,Romance,382.0
+176,180,Rio de Janeiro,2025-04-12,2025-04-22,10.0,John Martin,43.0,Female,Guyana,Resort,1472.0,Bus,130.0,1,Winter,Beach,1602.0
+177,181,Mexico,2024-09-27,2024-10-10,13.0,Danielle Hudson,65.0,Male,Ecuador,Airbnb,686.0,Train,319.0,1,Winter,Culture,1005.0
+178,182,Dubai,2025-04-28,2025-05-08,10.0,Karen Kirby,37.0,Male,Libyan Arab Jamahiriya,Hotel,1048.0,Train,351.0,10,Autumn,Luxury,1399.0
+179,183,Cape Town,2025-04-27,2025-05-04,7.0,Heather Castaneda,57.0,Male,Solomon Islands,Hostel,140.0,Train,339.0,9,Autumn,Adventure,479.0
+180,184,Marrakech,2024-11-21,2024-11-29,8.0,Hailey Walton,19.0,Female,Mozambique,Airbnb,634.0,Train,117.0,7,Summer,Culture,751.0
+181,185,Vancouver,2025-03-14,2025-03-22,8.0,Megan Jones,29.0,Female,Saint Lucia,Hostel,197.0,Train,217.0,11,Autumn,Nature,414.0
+182,186,Japan,2024-11-30,2024-12-13,13.0,James Olsen,43.0,Female,Palau,Resort,1162.0,Flight,620.0,7,Summer,Culture,1782.0
+183,187,Australia,2025-05-29,2025-06-06,8.0,Sarah Eaton,44.0,Male,Guyana,Hotel,545.0,Train,156.0,11,Autumn,Nature,701.0
+184,188,Amsterdam,2025-01-09,2025-01-16,7.0,Jose Allen,45.0,Female,Nigeria,Hostel,253.0,Train,234.0,1,Winter,Art,487.0
+185,189,Canada,2024-08-27,2024-09-02,6.0,Christine Hernandez,30.0,Female,Uganda,Hostel,196.0,Flight,431.0,9,Autumn,Nature,627.0
+186,190,Cape Town,2024-09-23,2024-09-29,6.0,John Bradley,46.0,Male,Mexico,Hostel,194.0,Bus,157.0,12,Winter,Adventure,351.0
+187,191,Marrakech,2024-10-17,2024-10-24,7.0,James Vaughan,46.0,Male,Colombia,Hostel,179.0,Train,294.0,11,Autumn,Culture,473.0
+188,192,Thailand,2025-05-25,2025-05-30,5.0,Belinda Hall,53.0,Female,Falkland Islands (Malvinas),Airbnb,464.0,Bus,140.0,5,Spring,Beach,604.0
+189,193,Seoul,2024-07-19,2024-07-27,8.0,Mark Taylor,36.0,Male,Liechtenstein,Hotel,740.0,Train,227.0,7,Summer,Tech & Culture,967.0
+190,194,Edinburgh,2025-01-06,2025-01-19,13.0,James Campbell,37.0,Female,Lebanon,Resort,1358.0,Train,208.0,1,Winter,History,1566.0
+191,195,Phnom Penh,2024-10-03,2024-10-14,11.0,Michael Wright,53.0,Male,Panama,Hostel,191.0,Train,355.0,9,Autumn,History,546.0
+192,196,Barcelona,2025-05-11,2025-05-20,9.0,Emily Hart,28.0,Male,Turkmenistan,Hostel,104.0,Train,253.0,1,Winter,Art,357.0
+193,197,Dubai,2024-11-30,2024-12-13,13.0,John Frank,56.0,Male,Russian Federation,Resort,867.0,Bus,89.0,1,Winter,Luxury,956.0
+194,198,Vancouver,2024-11-12,2024-11-21,9.0,Timothy Lambert,64.0,Male,Sudan,Airbnb,764.0,Flight,806.0,4,Spring,Nature,1570.0
+195,199,Bali,2025-02-04,2025-02-14,10.0,Isabella Paul,20.0,Male,Cuba,Resort,1239.0,Flight,411.0,9,Autumn,Beach,1650.0
+196,200,Rio de Janeiro,2025-05-17,2025-05-28,11.0,Robert Vega,24.0,Male,Niue,Hotel,528.0,Flight,682.0,6,Summer,Beach,1210.0
+197,201,Canada,2024-12-23,2024-12-31,8.0,Jennifer Williamson,33.0,Female,Heard Island and McDonald Islands,Airbnb,853.0,Flight,995.0,6,Summer,Nature,1848.0
+198,202,Egypt,2025-03-21,2025-03-31,10.0,Alec Noble,58.0,Male,Kiribati,Hotel,1165.0,Train,121.0,11,Autumn,History,1286.0
+199,203,Hawaii,2025-01-04,2025-01-17,13.0,Monique Conrad,48.0,Female,Solomon Islands,Hotel,865.0,Bus,194.0,1,Winter,Beach,1059.0
+200,204,Edinburgh,2025-04-03,2025-04-12,9.0,William Shelton,48.0,Female,Saudi Arabia,Resort,1081.0,Bus,123.0,8,Summer,History,1204.0
+201,205,Canada,2024-12-23,2025-01-03,11.0,Brandon Berry,59.0,Female,Heard Island and McDonald Islands,Hostel,224.0,Train,317.0,8,Summer,Nature,541.0
+202,206,Greece,2025-01-18,2025-01-23,5.0,Jimmy Haley,18.0,Female,Oman,Airbnb,417.0,Flight,799.0,2,Winter,History,1216.0
+203,207,Tokyo,2025-03-04,2025-03-15,11.0,Yolanda Jones,60.0,Female,Montserrat,Resort,831.0,Train,186.0,11,Autumn,Culture,1017.0
+204,208,Auckland,2025-02-13,2025-02-22,9.0,Cynthia Strickland,63.0,Male,Armenia,Hostel,141.0,Flight,555.0,4,Spring,Nature,696.0
+205,209,Dubai,2024-12-14,2024-12-28,14.0,Kenneth Thomas,35.0,Female,Comoros,Hostel,223.0,Flight,467.0,3,Spring,Luxury,690.0
+206,210,Rio de Janeiro,2024-08-26,2024-09-09,14.0,Dr. James Joseph MD,26.0,Male,Guinea,Hostel,139.0,Train,163.0,12,Winter,Beach,302.0
+207,211,Cairo,2025-03-17,2025-03-24,7.0,Andrew Haas,54.0,Female,Kazakhstan,Hotel,501.0,Bus,106.0,12,Winter,History,607.0
+208,212,Cancun,2025-01-25,2025-02-03,9.0,Whitney Dickson,29.0,Male,Nicaragua,Hotel,715.0,Train,350.0,5,Spring,Beach,1065.0
+209,213,Egypt,2024-10-22,2024-10-29,7.0,Glenn Lee,60.0,Female,Bulgaria,Hotel,519.0,Bus,193.0,1,Winter,History,712.0
+210,214,Barcelona,2024-08-14,2024-08-27,13.0,Lynn Williamson,63.0,Male,Iran,Hotel,504.0,Train,201.0,11,Autumn,Art,705.0
+211,215,Canada,2024-08-06,2024-08-20,14.0,Brittany Mcneil,65.0,Female,Benin,Hostel,176.0,Flight,411.0,9,Autumn,Nature,587.0
+212,216,Phuket,2024-10-11,2024-10-25,14.0,Stephen Bennett,39.0,Male,Taiwan,Hotel,628.0,Bus,94.0,7,Summer,Beach,722.0
+213,217,Italy,2024-12-12,2024-12-20,8.0,William Villa,30.0,Female,Burundi,Airbnb,626.0,Bus,129.0,6,Summer,Art,755.0
+214,218,Reykjavik,2025-03-24,2025-04-03,10.0,Melissa Moreno,57.0,Male,Rwanda,Resort,1311.0,Train,210.0,7,Summer,Nature,1521.0
+215,219,Los Angeles,2024-09-12,2024-09-17,5.0,Brian Houston,36.0,Female,Bolivia,Hostel,115.0,Bus,170.0,6,Summer,Entertainment,285.0
+216,220,France,2024-07-16,2024-07-30,14.0,Marissa Hunter,19.0,Female,Samoa,Resort,1355.0,Train,220.0,6,Summer,Romance,1575.0
+217,221,Athens,2024-06-21,2024-06-30,9.0,Jonathan Waters,59.0,Female,Niue,Hotel,611.0,Bus,70.0,5,Spring,Ancient History,681.0
+218,222,London,2025-06-10,2025-06-24,14.0,Christopher Payne,63.0,Male,Egypt,Airbnb,682.0,Flight,610.0,10,Autumn,History,1292.0
+219,223,Japan,2025-03-23,2025-03-29,6.0,Andrew Phillips,44.0,Female,French Polynesia,Airbnb,827.0,Flight,626.0,6,Summer,Culture,1453.0
+220,224,Mexico,2025-01-07,2025-01-17,10.0,Logan Stewart,33.0,Male,Cuba,Resort,1294.0,Flight,836.0,1,Winter,Culture,2130.0
+221,225,Marrakech,2024-10-04,2024-10-18,14.0,David Mcgrath,60.0,Male,Solomon Islands,Hostel,122.0,Flight,395.0,5,Spring,Culture,517.0
+222,226,Sydney,2024-07-22,2024-07-27,5.0,Nancy Gardner,40.0,Male,Comoros,Resort,818.0,Train,228.0,2,Winter,Nature,1046.0
+223,227,Athens,2024-12-05,2024-12-18,13.0,Maurice Sanchez,43.0,Female,Vanuatu,Hostel,134.0,Train,240.0,1,Winter,Ancient History,374.0
+224,228,Greece,2024-10-10,2024-10-24,14.0,Alfred Adams,24.0,Male,Colombia,Hostel,239.0,Flight,857.0,10,Autumn,History,1096.0
+225,229,Cancun,2025-04-13,2025-04-27,14.0,Luis Weber,59.0,Male,French Guiana,Hotel,885.0,Train,361.0,2,Winter,Beach,1246.0
+226,230,Reykjavik,2025-02-19,2025-03-05,14.0,Sandra Jensen,64.0,Male,Niue,Resort,1164.0,Bus,93.0,8,Summer,Nature,1257.0
+227,231,Egypt,2024-12-03,2024-12-13,10.0,Willie Edwards,38.0,Female,Micronesia,Hostel,163.0,Train,145.0,11,Autumn,History,308.0
+228,232,Brazil,2025-05-12,2025-05-20,8.0,Keith Dean,29.0,Female,Lao People's Democratic Republic,Hostel,243.0,Bus,130.0,2,Winter,Carnival,373.0
+229,233,Italy,2024-11-07,2024-11-15,8.0,Michael Lawrence,65.0,Female,Djibouti,Hotel,571.0,Train,265.0,3,Spring,Art,836.0
+230,234,Sydney,2025-02-28,2025-03-06,6.0,Stephen Robinson,25.0,Male,Canada,Resort,1218.0,Flight,333.0,7,Summer,Nature,1551.0
+231,235,Bangkok,2024-10-13,2024-10-23,10.0,Brandon Martin,47.0,Female,Ethiopia,Hotel,1014.0,Train,319.0,1,Winter,Street Life,1333.0
+232,236,Spain,2024-07-14,2024-07-27,13.0,James Deleon,65.0,Female,San Marino,Airbnb,512.0,Bus,178.0,5,Spring,Culture,690.0
+233,237,Rio de Janeiro,2025-06-08,2025-06-13,5.0,Kimberly Duarte,63.0,Male,Somalia,Hostel,203.0,Train,216.0,3,Spring,Beach,419.0
+234,238,Japan,2024-10-01,2024-10-08,7.0,Andrew Taylor,48.0,Male,Swaziland,Hotel,1084.0,Train,184.0,5,Spring,Culture,1268.0
+235,239,Cairo,2024-11-29,2024-12-04,5.0,Stephanie Thomas,63.0,Female,Norway,Hostel,123.0,Bus,82.0,1,Winter,History,205.0
